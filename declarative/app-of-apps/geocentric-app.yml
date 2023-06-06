@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/trucdp/gitops-argocd.git.git
+    repoURL: https://github.com/trucdp/gitops-argocd.git
     targetRevision: HEAD
     path: ./declarative/manifests/geocentric-model
    
